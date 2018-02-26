@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{flash}
+At45db321e-dte adatlap.
+\newblock
+  \url{http://www.tme.eu/en/Document/e3184090100272b67a422d10e8418c76/AT45DB321E-DTE.pdf}.
+\newblock Látogatás: 2017-05-17.
+
+\bibitem{switch}
+Fsa2257 adatlap.
+\newblock \url{http://www.onsemi.com/pub/Collateral/FSA2257-D.pdf}.
+\newblock Látogatás: 2017-12-07.
+
+\bibitem{dcdc}
+Mc34063ad adatlap.
+\newblock \url{https://www.onsemi.com/pub/Collateral/MC34063A-D.PDF}.
+\newblock Látogatás: 2017-05-16.
+
+\bibitem{mcp23s18}
+Mcp23s18 adatlap.
+\newblock \url{http://ww1.microchip.com/downloads/en/DeviceDoc/22103a.pdf}.
+\newblock Látogatás: 2017-05-17.
+
+\bibitem{mcp4161}
+Mcp4161 adatlap.
+\newblock \url{http://ww1.microchip.com/downloads/en/DeviceDoc/22059b.pdf}.
+\newblock Látogatás: 2017-12-07.
+
+\bibitem{sn74}
+Sn74ls38d adatlap.
+\newblock \url{http://www.ti.com/lit/ds/symlink/sn74ls38.pdf}.
+\newblock Látogatás: 2017-05-17.
+
+\bibitem{tap}
+Svs cctv tápegység,.
+\newblock
+  \url{https://www.amazon.in/ZVision-10Amp-Power-Supply-Driver/dp/B00Z9SF8BY/}.
+\newblock Látogatás: 2017-12-07.
+
+\bibitem{tm4c}
+Tm4c1294ncpdt adatlap.
+\newblock \url{http://www.ti.com/lit/ds/symlink/tm4c1294ncpdt.pdf}.
+\newblock Látogatás: 2017-12-07.
+
+\end{thebibliography}

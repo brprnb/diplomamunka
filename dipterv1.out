@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Bevezet\351s}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Bel\351ptetorendszer bemutat\341sa}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{C\351lok \351s tesztelo berendez\351s}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{M\351rendo jelek}{}% 4
+\BOOKMARK [1][-]{section.3}{Hardver}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Alkatr\351szek kiv\341laszt\341sa}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Mikrokontroller}{subsection.3.1}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.2}{GPIO bov\355tomodul}{subsection.3.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Flash}{subsection.3.1}% 9
+\BOOKMARK [3][-]{subsubsection.3.1.4}{3.3V-os t\341p}{subsection.3.1}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.5}{Anal\363g switch a programoz\341shoz}{subsection.3.1}% 11
+\BOOKMARK [3][-]{subsubsection.3.1.6}{Digit\341lis potenciom\351ter}{subsection.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Kapcsol\341sok}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Ellen\341ll\341soszt\363k \351s ADC}{subsection.3.2}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Jumperellenorzo}{subsection.3.2}% 15
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Vez\351rloegys\351g t\341pell\341t\341sa}{subsection.3.2}% 16
+\BOOKMARK [3][-]{subsubsection.3.2.4}{T\341ppanelre terhel\351s kapcsol\341sa}{subsection.3.2}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.5}{T\341pvonalakon r\366vidz\341rteszt}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Programoz\341s, kieg\351sz\355tok}{subsection.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.3}{Kapcsol\341si rajz \351s PCB}{section.3}% 20
+\BOOKMARK [1][-]{section.4}{Firmware}{}% 21
+\BOOKMARK [1][-]{section.5}{\311rt\351kel\351s, eredm\351nyek}{}% 22
