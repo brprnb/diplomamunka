@@ -10,13 +10,14 @@
 \contentsline {subsubsection}{\numberline {3.1.4}3.3V-os t\IeC {\'a}p}{10}{subsubsection.3.1.4}
 \contentsline {subsubsection}{\numberline {3.1.5}Anal\IeC {\'o}g switch a programoz\IeC {\'a}shoz}{10}{subsubsection.3.1.5}
 \contentsline {subsubsection}{\numberline {3.1.6}Digit\IeC {\'a}lis potenciom\IeC {\'e}ter}{10}{subsubsection.3.1.6}
+\contentsline {subsubsection}{\numberline {3.1.7}M\IeC {\H u}holdas 1Hz ad\IeC {\'o}}{11}{subsubsection.3.1.7}
 \contentsline {subsection}{\numberline {3.2}Kapcsol\IeC {\'a}sok}{11}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}Ellen\IeC {\'a}ll\IeC {\'a}soszt\IeC {\'o}k \IeC {\'e}s ADC}{11}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Jumperellen\IeC {\H o}rz\IeC {\H o}}{11}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Jumperkapcsol\IeC {\'a}s \IeC {\'e}s v\IeC {\'e}szhelyzet gomb jele}{11}{subsubsection.3.2.2}
 \contentsline {subsubsection}{\numberline {3.2.3}Vez\IeC {\'e}rl\IeC {\H o}egys\IeC {\'e}g t\IeC {\'a}pell\IeC {\'a}t\IeC {\'a}sa}{12}{subsubsection.3.2.3}
 \contentsline {subsubsection}{\numberline {3.2.4}T\IeC {\'a}ppanelre terhel\IeC {\'e}s kapcsol\IeC {\'a}sa}{12}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}T\IeC {\'a}pvonalakon r\IeC {\"o}vidz\IeC {\'a}rteszt}{13}{subsubsection.3.2.5}
-\contentsline {subsubsection}{\numberline {3.2.6}Programoz\IeC {\'a}s, kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o}k}{14}{subsubsection.3.2.6}
-\contentsline {subsection}{\numberline {3.3}Kapcsol\IeC {\'a}si rajz \IeC {\'e}s PCB}{15}{subsection.3.3}
-\contentsline {section}{\numberline {4}Firmware}{15}{section.4}
-\contentsline {section}{\numberline {5}\IeC {\'E}rt\IeC {\'e}kel\IeC {\'e}s, eredm\IeC {\'e}nyek}{15}{section.5}
+\contentsline {subsubsection}{\numberline {3.2.5}T\IeC {\'a}pvonalakon r\IeC {\"o}vidz\IeC {\'a}rteszt}{12}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Programoz\IeC {\'a}s, kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o}k}{13}{subsubsection.3.2.6}
+\contentsline {subsection}{\numberline {3.3}Kapcsol\IeC {\'a}si rajz \IeC {\'e}s PCB}{14}{subsection.3.3}
+\contentsline {section}{\numberline {4}Firmware}{14}{section.4}
+\contentsline {section}{\numberline {5}\IeC {\'E}rt\IeC {\'e}kel\IeC {\'e}s, eredm\IeC {\'e}nyek}{14}{section.5}
