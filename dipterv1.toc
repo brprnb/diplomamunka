@@ -16,8 +16,11 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Jumperkapcsol\IeC {\'a}s \IeC {\'e}s v\IeC {\'e}szhelyzet gomb jele}{11}{subsubsection.3.2.2}
 \contentsline {subsubsection}{\numberline {3.2.3}Vez\IeC {\'e}rl\IeC {\H o}egys\IeC {\'e}g t\IeC {\'a}pell\IeC {\'a}t\IeC {\'a}sa}{12}{subsubsection.3.2.3}
 \contentsline {subsubsection}{\numberline {3.2.4}T\IeC {\'a}ppanelre terhel\IeC {\'e}s kapcsol\IeC {\'a}sa}{12}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}T\IeC {\'a}pvonalakon r\IeC {\"o}vidz\IeC {\'a}rteszt}{12}{subsubsection.3.2.5}
-\contentsline {subsubsection}{\numberline {3.2.6}Programoz\IeC {\'a}s, kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o}k}{13}{subsubsection.3.2.6}
-\contentsline {subsection}{\numberline {3.3}Kapcsol\IeC {\'a}si rajz \IeC {\'e}s PCB}{14}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.2.5}T\IeC {\'a}pvonalakon r\IeC {\"o}vidz\IeC {\'a}rteszt}{13}{subsubsection.3.2.5}
+\contentsline {subsection}{\numberline {3.3}Ethernet csatlakoz\IeC {\'o}}{13}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Biztos\IeC {\'\i }t\IeC {\'e}kok}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Felfogat\IeC {\'a}s}{13}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Programoz\IeC {\'a}s, kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o}k}{14}{subsubsection.3.5.1}
+\contentsline {subsection}{\numberline {3.6}Kapcsol\IeC {\'a}si rajz \IeC {\'e}s PCB}{14}{subsection.3.6}
 \contentsline {section}{\numberline {4}Firmware}{14}{section.4}
 \contentsline {section}{\numberline {5}\IeC {\'E}rt\IeC {\'e}kel\IeC {\'e}s, eredm\IeC {\'e}nyek}{14}{section.5}

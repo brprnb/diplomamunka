@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.14)  26 FEB 2018 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.14)  3 MAR 2018 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1204,7 +1204,7 @@ me.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
 
-<bme-eps-converted-to.pdf, id=92, 705.63625pt x 188.705pt>
+<bme-eps-converted-to.pdf, id=96, 705.63625pt x 188.705pt>
 File: bme-eps-converted-to.pdf Graphic file (type pdf)
 
 <use bme-eps-converted-to.pdf>
@@ -1296,241 +1296,242 @@ l.213 \item L
 ]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 224.
+(hyperref)                removing `\H' on input line 227.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 224.
+(hyperref)                removing `\H' on input line 227.
 
 [9] [10]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 244.
+(hyperref)                removing `\H' on input line 247.
 
+[11]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 257.
+(hyperref)                removing `\H' on input line 262.
 
-[11] <relays.png, id=213, 843.15pt x 671.50874pt>
+<relays.png, id=217, 843.15pt x 671.50874pt>
 File: relays.png Graphic file (type png)
  <use relays.png>
-Package pdftex.def Info: relays.png used on input line 264.
+Package pdftex.def Info: relays.png used on input line 269.
 (pdftex.def)             Requested size: 364.19667pt x 290.05467pt.
  [12pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.270 
-       <./relays.png>] <tapteszt.png, id=222, 702.625pt x 572.1375pt>
+l.276 
+       <./relays.png>] <tapteszt.png, id=226, 702.625pt x 572.1375pt>
 File: tapteszt.png Graphic file (type png)
 
 <use tapteszt.png>
-Package pdftex.def Info: tapteszt.png used on input line 273.
+Package pdftex.def Info: tapteszt.png used on input line 288.
 (pdftex.def)             Requested size: 364.19667pt x 296.57036pt.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 280.
+(hyperref)                removing `\H' on input line 295.
 
 [13pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.285 
-       <./tapteszt.png>] <test1pont41.pdf, id=234, 845.04686pt x 597.50786pt>
+l.300 
+       <./tapteszt.png>] <test1pont41.pdf, id=237, 845.04686pt x 597.50786pt>
 File: test1pont41.pdf Graphic file (type pdf)
 
 <use test1pont41.pdf>
-Package pdftex.def Info: test1pont41.pdf used on input line 299.
+Package pdftex.def Info: test1pont41.pdf used on input line 314.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont41.pdf Graphic file (type pdf)
  <use test1pont41.pdf>
-Package pdftex.def Info: test1pont41.pdf used on input line 299.
+Package pdftex.def Info: test1pont41.pdf used on input line 314.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 
-<test1pont41.pdf, id=237, page=1, 845.04686pt x 597.50786pt>
+<test1pont41.pdf, id=240, page=1, 845.04686pt x 597.50786pt>
 File: test1pont41.pdf Graphic file (type pdf)
 
 <use test1pont41.pdf, page 1>
-Package pdftex.def Info: test1pont41.pdf, page1 used on input line 299.
+Package pdftex.def Info: test1pont41.pdf, page1 used on input line 314.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont41.pdf Graphic file (type pdf)
  <use test1pont41.pdf, page 1>
-Package pdftex.def Info: test1pont41.pdf, page1 used on input line 299.
+Package pdftex.def Info: test1pont41.pdf, page1 used on input line 314.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
  [14]
 File: test1pont41.pdf Graphic file (type pdf)
 
 <use test1pont41.pdf, page 1>
-Package pdftex.def Info: test1pont41.pdf, page1 used on input line 299.
+Package pdftex.def Info: test1pont41.pdf, page1 used on input line 314.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont41.pdf Graphic file (type pdf)
  <use test1pont41.pdf, page 1>
-Package pdftex.def Info: test1pont41.pdf, page1 used on input line 299.
+Package pdftex.def Info: test1pont41.pdf, page1 used on input line 314.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont41.pdf Graphic file (type pdf)
 
 <use test1pont41.pdf, page 1>
-Package pdftex.def Info: test1pont41.pdf, page1 used on input line 299.
+Package pdftex.def Info: test1pont41.pdf, page1 used on input line 314.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
  [15 <./test1pont41.pdf>]
-<test1pont42.pdf, id=254, 845.04686pt x 597.50786pt>
+<test1pont42.pdf, id=262, 845.04686pt x 597.50786pt>
 File: test1pont42.pdf Graphic file (type pdf)
  <use test1pont42.pdf>
-Package pdftex.def Info: test1pont42.pdf used on input line 300.
+Package pdftex.def Info: test1pont42.pdf used on input line 315.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont42.pdf Graphic file (type pdf)
 
 <use test1pont42.pdf>
-Package pdftex.def Info: test1pont42.pdf used on input line 300.
+Package pdftex.def Info: test1pont42.pdf used on input line 315.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 
-<test1pont42.pdf, id=257, page=1, 845.04686pt x 597.50786pt>
+<test1pont42.pdf, id=265, page=1, 845.04686pt x 597.50786pt>
 File: test1pont42.pdf Graphic file (type pdf)
 
 <use test1pont42.pdf, page 1>
-Package pdftex.def Info: test1pont42.pdf, page1 used on input line 300.
+Package pdftex.def Info: test1pont42.pdf, page1 used on input line 315.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont42.pdf Graphic file (type pdf)
  <use test1pont42.pdf, page 1>
-Package pdftex.def Info: test1pont42.pdf, page1 used on input line 300.
+Package pdftex.def Info: test1pont42.pdf, page1 used on input line 315.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont42.pdf Graphic file (type pdf)
 
 <use test1pont42.pdf, page 1>
-Package pdftex.def Info: test1pont42.pdf, page1 used on input line 300.
+Package pdftex.def Info: test1pont42.pdf, page1 used on input line 315.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont42.pdf Graphic file (type pdf)
  <use test1pont42.pdf, page 1>
-Package pdftex.def Info: test1pont42.pdf, page1 used on input line 300.
+Package pdftex.def Info: test1pont42.pdf, page1 used on input line 315.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont42.pdf Graphic file (type pdf)
 
 <use test1pont42.pdf, page 1>
-Package pdftex.def Info: test1pont42.pdf, page1 used on input line 300.
+Package pdftex.def Info: test1pont42.pdf, page1 used on input line 315.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
  [16 <./test1pont42.pdf>]
-<test1pont43.pdf, id=268, 845.04686pt x 597.50786pt>
+<test1pont43.pdf, id=276, 845.04686pt x 597.50786pt>
 File: test1pont43.pdf Graphic file (type pdf)
  <use test1pont43.pdf>
-Package pdftex.def Info: test1pont43.pdf used on input line 301.
+Package pdftex.def Info: test1pont43.pdf used on input line 316.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont43.pdf Graphic file (type pdf)
 
 <use test1pont43.pdf>
-Package pdftex.def Info: test1pont43.pdf used on input line 301.
+Package pdftex.def Info: test1pont43.pdf used on input line 316.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 
-<test1pont43.pdf, id=271, page=1, 845.04686pt x 597.50786pt>
+<test1pont43.pdf, id=279, page=1, 845.04686pt x 597.50786pt>
 File: test1pont43.pdf Graphic file (type pdf)
 
 <use test1pont43.pdf, page 1>
-Package pdftex.def Info: test1pont43.pdf, page1 used on input line 301.
+Package pdftex.def Info: test1pont43.pdf, page1 used on input line 316.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont43.pdf Graphic file (type pdf)
  <use test1pont43.pdf, page 1>
-Package pdftex.def Info: test1pont43.pdf, page1 used on input line 301.
+Package pdftex.def Info: test1pont43.pdf, page1 used on input line 316.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont43.pdf Graphic file (type pdf)
 
 <use test1pont43.pdf, page 1>
-Package pdftex.def Info: test1pont43.pdf, page1 used on input line 301.
+Package pdftex.def Info: test1pont43.pdf, page1 used on input line 316.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont43.pdf Graphic file (type pdf)
  <use test1pont43.pdf, page 1>
-Package pdftex.def Info: test1pont43.pdf, page1 used on input line 301.
+Package pdftex.def Info: test1pont43.pdf, page1 used on input line 316.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont43.pdf Graphic file (type pdf)
 
 <use test1pont43.pdf, page 1>
-Package pdftex.def Info: test1pont43.pdf, page1 used on input line 301.
+Package pdftex.def Info: test1pont43.pdf, page1 used on input line 316.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
  [17 <./test1pont43.pdf>]
-<test1pont44.pdf, id=282, 845.04686pt x 597.50786pt>
+<test1pont44.pdf, id=290, 845.04686pt x 597.50786pt>
 File: test1pont44.pdf Graphic file (type pdf)
  <use test1pont44.pdf>
-Package pdftex.def Info: test1pont44.pdf used on input line 302.
+Package pdftex.def Info: test1pont44.pdf used on input line 317.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont44.pdf Graphic file (type pdf)
 
 <use test1pont44.pdf>
-Package pdftex.def Info: test1pont44.pdf used on input line 302.
+Package pdftex.def Info: test1pont44.pdf used on input line 317.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 
-<test1pont44.pdf, id=285, page=1, 845.04686pt x 597.50786pt>
+<test1pont44.pdf, id=293, page=1, 845.04686pt x 597.50786pt>
 File: test1pont44.pdf Graphic file (type pdf)
 
 <use test1pont44.pdf, page 1>
-Package pdftex.def Info: test1pont44.pdf, page1 used on input line 302.
+Package pdftex.def Info: test1pont44.pdf, page1 used on input line 317.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont44.pdf Graphic file (type pdf)
  <use test1pont44.pdf, page 1>
-Package pdftex.def Info: test1pont44.pdf, page1 used on input line 302.
+Package pdftex.def Info: test1pont44.pdf, page1 used on input line 317.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont44.pdf Graphic file (type pdf)
 
 <use test1pont44.pdf, page 1>
-Package pdftex.def Info: test1pont44.pdf, page1 used on input line 302.
+Package pdftex.def Info: test1pont44.pdf, page1 used on input line 317.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont44.pdf Graphic file (type pdf)
  <use test1pont44.pdf, page 1>
-Package pdftex.def Info: test1pont44.pdf, page1 used on input line 302.
+Package pdftex.def Info: test1pont44.pdf, page1 used on input line 317.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
 File: test1pont44.pdf Graphic file (type pdf)
 
 <use test1pont44.pdf, page 1>
-Package pdftex.def Info: test1pont44.pdf, page1 used on input line 302.
+Package pdftex.def Info: test1pont44.pdf, page1 used on input line 317.
 (pdftex.def)             Requested size: 659.13391pt x 466.05424pt.
  [18 <./test1pont44.pdf>]
-<test1pont45.pdf, id=297, 845.04686pt x 597.50786pt>
+<test1pont45.pdf, id=306, 845.04686pt x 597.50786pt>
 File: test1pont45.pdf Graphic file (type pdf)
  <use test1pont45.pdf>
-Package pdftex.def Info: test1pont45.pdf used on input line 303.
+Package pdftex.def Info: test1pont45.pdf used on input line 318.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont45.pdf Graphic file (type pdf)
 
 <use test1pont45.pdf>
-Package pdftex.def Info: test1pont45.pdf used on input line 303.
+Package pdftex.def Info: test1pont45.pdf used on input line 318.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 
-<test1pont45.pdf, id=300, page=1, 845.04686pt x 597.50786pt>
+<test1pont45.pdf, id=309, page=1, 845.04686pt x 597.50786pt>
 File: test1pont45.pdf Graphic file (type pdf)
 
 <use test1pont45.pdf, page 1>
-Package pdftex.def Info: test1pont45.pdf, page1 used on input line 303.
+Package pdftex.def Info: test1pont45.pdf, page1 used on input line 318.
 (pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
 File: test1pont45.pdf Graphic file (type pdf)
  <use test1pont45.pdf, page 1>
-Package pdftex.def Info: test1pont45.pdf, page1 used on input line 303.
+Package pdftex.def Info: test1pont45.pdf, page1 used on input line 318.
 (pdftex.def)             Requested size: 1352.07683pt x 956.01387pt.
 File: test1pont45.pdf Graphic file (type pdf)
 
 <use test1pont45.pdf, page 1>
-Package pdftex.def Info: test1pont45.pdf, page1 used on input line 303.
+Package pdftex.def Info: test1pont45.pdf, page1 used on input line 318.
 (pdftex.def)             Requested size: 1352.07683pt x 956.01387pt.
 File: test1pont45.pdf Graphic file (type pdf)
  <use test1pont45.pdf, page 1>
-Package pdftex.def Info: test1pont45.pdf, page1 used on input line 303.
+Package pdftex.def Info: test1pont45.pdf, page1 used on input line 318.
 (pdftex.def)             Requested size: 1352.07683pt x 956.01387pt.
 File: test1pont45.pdf Graphic file (type pdf)
 
 <use test1pont45.pdf, page 1>
-Package pdftex.def Info: test1pont45.pdf, page1 used on input line 303.
+Package pdftex.def Info: test1pont45.pdf, page1 used on input line 318.
 (pdftex.def)             Requested size: 1352.07683pt x 956.01387pt.
  [19 <./test1pont45.pdf>]
-<3D.png, id=308, 391.4625pt x 531.1845pt>
+<3D.png, id=316, 391.4625pt x 531.1845pt>
 File: 3D.png Graphic file (type png)
  <use 3D.png>
-Package pdftex.def Info: 3D.png used on input line 307.
+Package pdftex.def Info: 3D.png used on input line 322.
 (pdftex.def)             Requested size: 391.46153pt x 531.18318pt.
  [20pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.310 \clearpage
+l.325 \clearpage
                  <./3D.png>] (./dipterv1.bbl
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
 
@@ -1571,14 +1572,14 @@ ision -[] 10Amp -[] Power -[] Supply -[]
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
  [21
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
  (./dipterv1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
 
 
 Package rerunfilecheck Warning: File `dipterv1.out' has changed.
@@ -1586,38 +1587,41 @@ Package rerunfilecheck Warning: File `dipterv1.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `dipterv1.out':
-(rerunfilecheck)             Before: 0BC2AA4A48C467C99FEC633BEF5D5699;1712
-(rerunfilecheck)             After:  7ABCBAEAEAB945FDF69213158101E51A;1791.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
+(rerunfilecheck)             Before: 7ABCBAEAEAB945FDF69213158101E51A;1791
+(rerunfilecheck)             After:  E45E188EB41A269C5B10225661189DC8;1994.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
- 18480 strings out of 493029
- 348102 string characters out of 6136234
+ 18485 strings out of 493029
+ 348184 string characters out of 6136234
  404239 words of memory out of 5000000
- 21727 multiletter control sequences out of 15000+600000
+ 21728 multiletter control sequences out of 15000+600000
  22182 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,21n,49p,10359b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
-fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-bx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfr
-m0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti
-1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on dipterv1.pdf (22 pages, 1208609 bytes).
+pdfTeX warning (dest): name{subsubsection.3.2.6} has been referenced but does
+ not exist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fo
+nts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx
+1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0
+800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti12
+00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on dipterv1.pdf (22 pages, 1211927 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 336 compressed objects within 4 object streams
- 69 named destinations out of 1000 (max. 500000)
- 315 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 323 words of extra memory for PDF output out of 10000 (max. 10000000)
 

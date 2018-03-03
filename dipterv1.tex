@@ -220,6 +220,9 @@ Tápfeszültségek.& 12V, 3.3V, akkumulátor töltőfeszültség & 3 & \cmark & 
 \end{itemize}
 \tab Így esett a választás a Texas Instruments TM4C1294NCPDT\textregistered{} \cite{tm4c} mikrokontrollerére. Felületszerelt, 128 láb, ebből 90 GPIO és ezen felül vannak az Ethernet vonalak, a kiválasztott protokollokat támogatja (4 SPI, 8 UART, ezek a 90 GPIO vonal között vannak), Ethernet MAC és PHY integrálva, 20 AD csatorna, 1MB Flash memória és 256 kB SRAM. Ha a fentebbi táblázatot megnézzük, látjuk, hogy szükséges ha mindegyik vizsgált jelre csak egy GPIO vonalat használunk el, az is 50 láb és erre jön rá a többi funkció (UART, saját ledek, nyomógomb, \dots)
 
+TODO ethernet miatt 25MHz kristály
+TODO fejlesztőpanel + kép
+
 
 \subsubsection{GPIO bővítőmodul}
 \emph{
@@ -242,6 +245,7 @@ Figyelnünk kell rá, hogy a bemeneten levő ellenállás ne csak értékileg le
 Ehhez a megoldáshoz a teszterre egy digitális potenciométert terveztem, aminek kivezettem az egyik végpontját és a középső megcsapolását a táppanelre, a másikat a földre kötjük. A középső pont és a végpont összekötésére azért van szükség, mert a rövid átkapcsolások miatt létrejött átmenetek, -- amik nem definiáltak, hogy milyen ellenállást szolgáltat ilyenkor az eszköz -- ne okozzanak gondot. A soros ellenállás meghagyására azért van szükség (ugyanis ezt kivehetnénk és azt az értéket is előállíthatnánk a potenciométerrel), mert ha a valamilyen oknál fogva a potenciométert nullára állítjuk és a komparátor bemenetére 0V jut, akkor úgy érzékeli, hogy kevés a kimeneti feszültség és próbálja növelni, amit a végtelenségig tenne és ez a táp tönkremeneteléhez vezetne. A szükséges feszültségszintek előállításához a Microchip\textregistered{} által gyártott MCP4161\cite{mcp4161} 5k\si{\ohm}-os eszközt választottam, amivel SPI-on keresztül fogunk kommunikálni.
 
 \subsubsection{Műholdas 1Hz adó}
+TODO
 
 
 
@@ -249,6 +253,7 @@ Ehhez a megoldáshoz a teszterre egy digitális potenciométert terveztem, amine
 Az IC-k megválasztása után/közben megterveztem a kapcsolásokat, amit a teszterben lesznek. Alább a külön funkciókat megvalósító elképzeléseket részletezem.
 \subsubsection{Ellenállásosztók és ADC}
 \emph{\tab Mivel a vezérlőegységen több olyan feszültséget szeretnénk mérni a 3.3V-ról működő mikrokontrollerünkkel, ami jóval efölött az érték fölött van, ezért ehhez ellenállásosztókat használtam. Szempont volt az, hogy közelítőleg kitöltve az osztott érték maximuma a 3.3V-os tartományt, így nagyobb felbontásban tudok mérni}, de kellett mindenhova tartalékot hagyni, hogy az esetleges feszültségingadozás ne okozzon problémát. A 3.3V-ot tudjuk mérni több helyen is ha szeretnénk, mivel vannak kivezetve közvetlen AD lábak a mikrokontrollerről. A 12V-os vonalat több helyen is mérem, magán az SVS CCTV tápegység után, a táppanel (amit kalibrálni kell) belső 12V-ját és mellette a 13.75V akkumulátor töltőfeszültséget és ennek a táppanelnek a kimenetén is mérjük. Ezekhez 20k\si{\ohm} - 5k1\si{\ohm} ellenállásosztót használok.
+TODO ADC bemeneti ellenállásához illesztés.
 
 
 \subsubsection{Jumperkapcsolás és vészhelyzet gomb jele}
@@ -267,6 +272,15 @@ A táppanel különböző ellenállásokkal való terheléséhez szeretnénk biz
 
 \subsubsection{Tápvonalakon rövidzárteszt}
 Az ACU-n a 3.3V-os és a 12V-os vonalon is szeretnénk megnézni, hogy van-e rövidzár a GND felé, mielőtt bekapcsoljuk a készüléket. Ahhoz hogy ezeken a vonalakon mérni tudjam feszültséget kell kiadni rájuk, amitől viszont elindulna az eszköz, amit pedig nem szeretnénk. Ezért választottam azt a megoldást, hogy egy ellenálláson keresztül 3.3V-ra kapcsolom az egyik, majd a másik vonalat és közben AD átalakítóval nézem, hogy emelkedik-e a feszültségük. Ha rövidzár van a GND és a tápvonal között, akkor nem fog feszültség megjelenni az AD bemeneten. Az alábbi kapcsolás mutatja, hogy ezt hogyan valósítom meg. A diódára azért van szükség, hogy a teszter felé ne tudjon áram folyni. Bár ez megemeli a kezdeti feszültséget, amit érzékelni tudunk, de a kapcsolás emellett működőképes marad.
+TODO kép
+
+\subsection{Ethernet csatlakozó}
+TODO pcb kialakítás, led jelek benne
+
+\subsection{Egyéb}
+TODO Biztosítékok, Felfogatás a négy sarkon, 0603-as alkatrészválasztás
+
+
 
 \begin{figure}[H]
     \centering
